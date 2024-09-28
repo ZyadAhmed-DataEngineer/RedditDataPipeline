@@ -1,0 +1,28 @@
+id,title,,score,num_comments,author,created_utc,url,,over_18,edited,spoiler,stickied
+1at7mdg,Update to interview posts,,35,6,AutoModerator,2024-02-17 17:44,https://www.reddit.com/r/dataengineering/comments/1at7mdg/update_to_interview_posts/,,FALSE,FALSE,FALSE,TRUE
+1at0gkz,Geoglify: now supports visualizing geo data through patterns,,18,6,leoneljdias,2024-02-17 12:05,https://v.redd.it/3ryx4ffyy4jc1,,FALSE,FALSE,FALSE,FALSE
+1at32dw,Do you use surrogate key or composite key in fact tables?,,16,20,rental_car_abuse,2024-02-17 14:21,https://www.reddit.com/r/dataengineering/comments/1at32dw/do_you_use_surrogate_key_or_composite_key_in_fact/,,FALSE,FALSE,FALSE,FALSE
+1asxqdx,Blog 2 - Learning SQL,,14,2,Vikinghehe,2024-02-17 9:05,https://www.reddit.com/r/dataengineering/comments/1asxqdx/blog_2_learning_sql/,,FALSE,FALSE,FALSE,FALSE
+1asw21j,Australia data engineering salary,,12,5,Agile-z,2024-02-17 7:12,https://www.reddit.com/r/dataengineering/comments/1asw21j/australia_data_engineering_salary/,,FALSE,FALSE,FALSE,FALSE
+1ast2g5,DP-600 vs DP-203: Which one would be better choice? Need advice.,,12,4,bass581,2024-02-17 4:17,https://www.reddit.com/r/dataengineering/comments/1ast2g5/dp600_vs_dp203_which_one_would_be_better_choice/,,FALSE,FALSE,FALSE,FALSE
+1asq126,Data Modeling: What logic to put in DBT vs in BI Layer?,,11,9,anon_data_person,2024-02-17 1:44,https://www.reddit.com/r/dataengineering/comments/1asq126/data_modeling_what_logic_to_put_in_dbt_vs_in_bi/,,FALSE,FALSE,FALSE,FALSE
+1at1rel,"Beginner Question - Use cases of Spark if we are on Snowflake, AWS",,11,5,20231027,2024-02-17 13:17,https://www.reddit.com/r/dataengineering/comments/1at1rel/beginner_question_use_cases_of_spark_if_we_are_on/,,FALSE,FALSE,FALSE,FALSE
+1at2ir9,Favourite technical books,,7,4,Low-Sandwich-7607,2024-02-17 13:55,https://www.reddit.com/r/dataengineering/comments/1at2ir9/favourite_technical_books/,,FALSE,FALSE,FALSE,FALSE
+1aspdhk,Need help deciding an OLAP db,,8,16,RedBlueWhiteBlack,2024-02-17 1:13,https://www.reddit.com/r/dataengineering/comments/1aspdhk/need_help_deciding_an_olap_db/,,FALSE,FALSE,FALSE,FALSE
+1at0xbv,Deploying Clickhouse in production - what to watch out for,,6,3,abhishekgahlot,2024-02-17 12:31,https://www.reddit.com/r/dataengineering/comments/1at0xbv/deploying_clickhouse_in_production_what_to_watch/,,FALSE,FALSE,FALSE,FALSE
+1at76os,Airbyte and similar EL tools,,6,13,caksters,2024-02-17 17:26,https://www.reddit.com/r/dataengineering/comments/1at76os/airbyte_and_similar_el_tools/,,FALSE,FALSE,FALSE,FALSE
+1asnwgy,Encryption micro service?,,4,2,Foodwithfloyd,2024-02-17 0:07,https://www.reddit.com/r/dataengineering/comments/1asnwgy/encryption_micro_service/,,FALSE,FALSE,FALSE,FALSE
+1atbt4x,Any video course equivalent of the fundamentals of data engineering out there?,,5,7,Alno1,2024-02-17 20:43,https://www.reddit.com/r/dataengineering/comments/1atbt4x/any_video_course_equivalent_of_the_fundamentals/,,FALSE,FALSE,FALSE,FALSE
+1at5kpz,What are some good sources to learn Scala and Spark?,,4,2,Present-Yogurt-1998,2024-02-17 16:17,https://www.reddit.com/r/dataengineering/comments/1at5kpz/what_are_some_good_sources_to_learn_scala_and/,,FALSE,FALSE,FALSE,FALSE
+1at8bft,About iceberg tables,,3,7,Annual_Scratch7181,2024-02-17 18:15,https://www.reddit.com/r/dataengineering/comments/1at8bft/about_iceberg_tables/,,FALSE,FALSE,FALSE,FALSE
+1aswgfv,Data Engineering - First Contact,,3,1,Paperplaneflyr,2024-02-17 7:39,https://www.reddit.com/r/dataengineering/comments/1aswgfv/data_engineering_first_contact/,,FALSE,FALSE,FALSE,FALSE
+1atcwjw,Transitioning from Data Engineering in Mexico to the US Job Market,,0,4,josegzza,2024-02-17 21:31,https://www.reddit.com/r/dataengineering/comments/1atcwjw/transitioning_from_data_engineering_in_mexico_to/,,FALSE,FALSE,FALSE,FALSE
+1at262v,Best way to ingest data that is based on data already in the database?,,2,2,RichOkra,2024-02-17 13:37,https://www.reddit.com/r/dataengineering/comments/1at262v/best_way_to_ingest_data_that_is_based_on_data/,,FALSE,FALSE,FALSE,FALSE
+1atdk8c,How to orchestrate jobs,,2,0,SKll75,2024-02-17 21:59,https://www.reddit.com/r/dataengineering/comments/1atdk8c/how_to_orchestrate_jobs/,,FALSE,FALSE,FALSE,FALSE
+1atccw5,Question on data pipeline and Kafka events,,1,0,Upper-Lifeguard-8478,2024-02-17 21:07,https://www.reddit.com/r/dataengineering/comments/1atccw5/question_on_data_pipeline_and_kafka_events/,,FALSE,FALSE,FALSE,FALSE
+1ataxyd,Load balancer for pipelines,,2,1,Amrita_Kai,2024-02-17 20:05,https://www.reddit.com/r/dataengineering/comments/1ataxyd/load_balancer_for_pipelines/,,FALSE,FALSE,FALSE,FALSE
+1at8a9q,End to End Data Engineering,,2,2,mjfnd,2024-02-17 18:13,https://www.junaideffendi.com/p/end-to-end-data-engineering,,FALSE,FALSE,FALSE,FALSE
+1at7mp7,Need help with a database project,,0,4,norfkens2,2024-02-17 17:45,https://www.reddit.com/r/dataengineering/comments/1at7mp7/need_help_with_a_database_project/,,FALSE,FALSE,FALSE,FALSE
+1aszyi3,Resource for learning AWS Kinesis,,1,3,mediocrX,2024-02-17 11:34,https://www.reddit.com/r/dataengineering/comments/1aszyi3/resource_for_learning_aws_kinesis/,,FALSE,FALSE,FALSE,FALSE
+1asmjjc,Azure Container Instance IP CICD best practices,,1,1,ShouldHaveWentBio,2024-02-16 23:08,https://www.reddit.com/r/dataengineering/comments/1asmjjc/azure_container_instance_ip_cicd_best_practices/,,FALSE,FALSE,FALSE,FALSE
+1atcpyw,Is TCP/IP Ideal in a Perfect World?,,0,2,DuckDatum,2024-02-17 21:23,https://www.reddit.com/r/dataengineering/comments/1atcpyw/is_tcpip_ideal_in_a_perfect_world/,,FALSE,FALSE,FALSE,FALSE
