@@ -3,7 +3,8 @@ This project provides a comprehensive data pipeline solution to extract, transfo
 
 ## Overview!
 
-[Architechture](https://github.com/user-attachments/assets/2a854a38-e296-46f8-9624-884976494ddd)
+![Architechture](https://github.com/user-attachments/assets/9d15334e-1293-41a4-8508-39b733e602ce)
+
 
 
 The pipeline is designed to:
